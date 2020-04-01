@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# live_history
+A spatial and temporal visualisation of the story of India
 
 ## Available Scripts
 
